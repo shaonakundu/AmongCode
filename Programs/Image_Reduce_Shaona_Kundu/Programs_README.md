@@ -5,4 +5,6 @@ Reduction or compression in the size of Image in python:
   3. Here an image of size 1.3 MB is used, which is compressed using ".resize" command, and PIL.Image.ANTIALIAS command where module "ANTIALIAS" is used which does not compromise over any quality which compression in size
   4. Finally we get a resized image of size 1.1 MB 
 
+  ![alt text](https://github.com/shaonakundu/AmongCode/blob/aesthetic.jpg?raw=true)
+
   Author - SHAONA KUNDU
